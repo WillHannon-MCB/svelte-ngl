@@ -22,9 +22,10 @@
       o.addRepresentation("cartoon", { color: "bfactor" })
       o.autoView()
     });
+    
 
 	});
-  
+
 </script>
 
 <p>Showing structure: {structure}</p>
